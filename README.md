@@ -6,6 +6,9 @@
 
 ---
 
+* https://news.uchicago.edu/story/ibm-uchicago-demonstrate-quantum-advantage-outperforming-traditional-computers-quantum
+
+---
 
 * https://github.com/ericrenone/Rotation-as-the-Primitive-Unifying-Clifford-Hyperbolic-and-Integral-Geometries
 
