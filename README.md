@@ -11,6 +11,8 @@
 
 * https://github.com/ericrenone/Clifford-Algebra-as-the-Universal-Language
 
+* https://github.com/ericrenone/WARD
+
 ---
 
 ## Executive Synthesis
